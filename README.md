@@ -71,7 +71,7 @@ Every identifier is **deterministic** (SHA-256 from inputs). Every store is **ap
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/shakti-substrate.git
+git clone https://github.com/AnshGupta007/shakti-substrate.git
 cd shakti-substrate
 
 # Install dependencies
